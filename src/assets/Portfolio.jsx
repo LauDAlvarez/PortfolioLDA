@@ -394,8 +394,8 @@ const Portfolio = () => {
                                                 Actualmente curso Ingeniería en Sistemas Informáticos en la UAI, combinando mis estudios con proyectos profesionales.
                                             </p>
                                             <p className="text-gray-300 mb-6 text-lg leading-relaxed">
-                                                Mi enfoque se centra en construir aplicaciones que no solo funcionen perfectamente, sino que también
-                                                brinden experiencias excepcionales a los usuarios. Me especializo en tecnologías modernas y mejores prácticas de desarrollo.
+                                                Mi objetivo se centra en construir aplicaciones que no solo funcionen acorde a lo pedido, sino que también
+                                                brinden experiencias únicas y personalizadas a los usuarios. Me especializo en tecnologías modernas y mejores prácticas de desarrollo.
                                             </p>
                                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-8">
                                                 <div className="flex items-center gap-3 text-gray-400">
